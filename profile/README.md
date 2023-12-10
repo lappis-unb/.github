@@ -1,9 +1,8 @@
 ## Olá 👋
 
-<!--
 
 
-Laboratório LAPPIS de Software Livre da Universidade de Brasília
+Somos o Laboratório LAPPIS de Software Livre da Universidade de Brasília
 
 Veja https://lappis.rocks
 
@@ -16,4 +15,4 @@ e também estamos desenvolvendo a plataforma Brasil Participativo, e o código p
 
 https://gitlab.com/lappis-unb
 
--->
+
